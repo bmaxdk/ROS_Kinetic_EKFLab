@@ -1,2 +1,0 @@
-# Changing python PATH. DO NOT DELETE!
-export PATH=/usr/bin:$PATH
